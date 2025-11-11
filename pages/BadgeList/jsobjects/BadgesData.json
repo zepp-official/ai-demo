@@ -1,0 +1,16 @@
+{
+  "unpublishedCollection": {
+    "name": "BadgesData",
+    "pageId": "BadgeList",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tbadges: [\n\t\t{\n\t\t\t\"id\": 1,\n\t\t\t\"backendConfigTitle\": \"ABC\",\n\t\t\t\"parentId\": 0,\n\t\t\t\"appname\": \"com.midong.huami\",\n\t\t\t\"contents\": {\n\t\t\t\t\"badge_title\": \"title_key1\",\n\t\t\t\t\"badge_description\": \"description_key1\",\n\t\t\t\t\"badge_tag_challenge\": [\n\t\t\t\t\t\"tag_key1\",\n\t\t\t\t\t\"tag_key2\"\n\t\t\t\t]\n\t\t\t},\n\t\t\t\"assets\": {\n\t\t\t\t\"icon\": \"badges/running_active.png\"\n\t\t\t},\n\t\t\t\"type\": 0,\n\t\t\t\"actionType\": 1,\n\t\t\t\"predictExpression\": \"distance >= 1000\",\n\t\t\t\"goalExpression\": \"1000\",\n\t\t\t\"progressExpression\": \"distance>1000\",\n\t\t\t\"showPredict\": \"version>10.0.0\",\n\t\t\t\"mark\": 1,\n\t\t\t\"level\": 1,\n\t\t\t\"difficulty\": 1,\n\t\t\t\"repeatReriod\": 1,\n\t\t\t\"isRepeatable\": 1,\n\t\t\t\"visibilityStartTime\": \"2023-10-01 10:00:00\",\n\t\t\t\"visibilityEndTime\": \"2023-10-01 10:00:00\",\n\t\t\t\"availabilityStartTime\": \"2023-10-01 10:00:00\",\n\t\t\t\"availabilityEndTime\": \"2023-10-01 10:00:00\",\n\t\t\t\"status\": 1,\n\t\t\t\"groupId\": \"xxxxxxx\"\n\t\t},\n\t\t{\n\t\t\t\"id\": 2,\n\t\t\t\"backendConfigTitle\": \"BBC\",\n\t\t\t\"parentId\": 0,\n\t\t\t\"appname\": \"com.midong.huami\",\n\t\t\t\"contents\": {\n\t\t\t\t\"badge_title\": \"title_key1\",\n\t\t\t\t\"badge_description\": \"description_key1\",\n\t\t\t\t\"badge_tag_challenge\": [\n\t\t\t\t\t\"tag_key1\",\n\t\t\t\t\t\"tag_key2\"\n\t\t\t\t]\n\t\t\t},\n\t\t\t\"assets\": {\n\t\t\t\t\"icon\": \"badges/running_active.png\"\n\t\t\t},\n\t\t\t\"type\": 0,\n\t\t\t\"actionType\": 1,\n\t\t\t\"predictExpression\": \"distance >= 1000\",\n\t\t\t\"goalExpression\": \"1000\",\n\t\t\t\"progressExpression\": \"distance>1000\",\n\t\t\t\"showPredict\": \"version>10.0.0\",\n\t\t\t\"mark\": 1,\n\t\t\t\"level\": 1,\n\t\t\t\"difficulty\": 1,\n\t\t\t\"repeatReriod\": 1,\n\t\t\t\"isRepeatable\": 1,\n\t\t\t\"visibilityStartTime\": \"2023-10-01 10:00:00\",\n\t\t\t\"visibilityEndTime\": \"2023-10-01 10:00:00\",\n\t\t\t\"availabilityStartTime\": \"2023-10-01 10:00:00\",\n\t\t\t\"availabilityEndTime\": \"2023-10-01 10:00:00\",\n\t\t\t\"status\": 1,\n\t\t\t\"groupId\": \"xxxxxxx\"\n\t\t}\n\t]\n}",
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "BadgeList_BadgesData",
+  "deleted": false,
+  "gitSyncId": "6912dd8a2fc9b5139b7e53eb_badgesdata001"
+}
