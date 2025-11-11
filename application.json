@@ -18,8 +18,12 @@
   "icon": "bar-graph",
   "pages": [
     {
-      "id": "Page1",
+      "id": "BadgeList",
       "isDefault": true
+    },
+    {
+      "id": "BadgeDetail",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
