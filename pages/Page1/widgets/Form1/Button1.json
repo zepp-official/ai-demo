@@ -20,6 +20,7 @@
   "isVisible": true,
   "key": "zty9zu5jci",
   "leftColumn": 46,
+  "onClick": "{{storeValue('name', Input1.text)}}",
   "minWidth": 120,
   "mobileBottomRow": 37,
   "mobileLeftColumn": 46,
